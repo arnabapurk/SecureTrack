@@ -10,4 +10,4 @@ This is an implementation of a prototype of a novel application SecureTrack to a
 Citation information will be updated shortly
 
 # License
-This work is licensed under Copyright (C) 2020 [Shobhit Aggarwal]. Please refer LICENSE
+This work is licensed under Copyright (C) 2020 [Shobhit Aggarwal]. Please refer [LICENSE](https://github.com/arnabapurk/SecureTrack/blob/main/LICENSE.txt)
