@@ -38,10 +38,7 @@ N is the device ID.
 Citation information will be updated shortly
 
 # License
-<<<<<<< Updated upstream
 This work is licensed under Copyright (C) 2020 [Shobhit Aggarwal]. For more information please refer [LICENSE](https://github.com/arnabapurk/SecureTrack/blob/main/LICENSE.txt)
-=======
-This work is licensed under Copyright (C) 2020 [Shobhit Aggarwal]. Please refer [LICENSE](https://github.com/arnabapurk/SecureTrack/blob/main/LICENSE.txt)
 
 
 # Author/Contact:
@@ -49,4 +46,4 @@ This work is licensed under Copyright (C) 2020 [Shobhit Aggarwal]. Please refer 
   Shobhit Aggarwal- shobhuagg@gmail.com 
   Arnab Purkayastha- arnabap@gmail.com
 
->>>>>>> Stashed changes
+
